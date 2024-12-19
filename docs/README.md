@@ -40,24 +40,16 @@ class CircleTestCase(unittest.TestCase):
 ```
 
 # Граф изменения проекта 
-\* b6f3ec505312ee247fb68be05ea79aa998c5e717 (HEAD -> new_features_467840) Add a comment for each function\
-\* 274af56a57df1ff5fa92af78ef36ce469cc2b5ed add new file triangle.py, fix rectangle.py\
-\* a820fc14517af6463b03dd887f0d6b4c88b40d0e add new file rectangle.py\
-| * 86edb1c3dd57fa9abc7ba2ec7052507938084727 (origin/release) L-05: Update Docs. Add user agreement info\
-| * 438b89a1dfc58d90e9036fe431771427965cd1ff L-05: Add user agreement\
-| * 6adb96248a4d00d3bea13bd95d78ef52352cd1b4 L-03: Docs added\
-| | * 30494317cde4419be779c14306561e0eaa78b88b (origin/feature) L-04: Add rectangle.py\
-| |/  \
-|/|   \
-| | * b5b0fae727ca72c317c383b39c0af73d6adcd81c (origin/develop) L-04: Update docs for calculate.py\
-| | * d76db2ac7f69cc920ae2e6f669fb0671a7fa7d71 L-04: Add calculate.py\
-| | * 51c40ebfd0e0b65f52fe5e54740cbb038e492db3 L-04: Doc updated for triangle\
-| | * d080c7888b81955bad2ed78d58ad910526b5132a L-04: Triangle added\
-| |/  \
-|/|   \
-\* | d078c8d9ee6155f3cb0e577d28d337b791de28e2 (origin/main, origin/HEAD, main) L-03: Docs added\
-|/  \
-:
+```
+a1343c244cd4db0297d4cdc6f8718e6c3954328d (HEAD -> main, origin/main, origin/HEAD) add tests for every function, update README.md
+6fa27f8e73c1fbd0fc9b8a4c0955985be5981b3e (origin/new_features_467840, new_features_467840) fix documentation
+4eaed523e301c6c28e4fbc2863ac6c7ecac5addc add README documentation
+21c272a922c676935ffddf12cf5fbfab80edc825 add a comment to each function
+855a8ec2d9314558147eabafa70106dd3181c3ad add new file triangle.py, fix rectangle.py
+ca0b25dda1362479317b83ce737120364e55b868 add new file rectangle.py
+d078c8d9ee6155f3cb0e577d28d337b791de28e2 L-03: Docs added
+8ba9aeb3cea847b63a91ac378a2a6db758682460 L-03: Circle and square added
+```
 
 # Формулы
 
